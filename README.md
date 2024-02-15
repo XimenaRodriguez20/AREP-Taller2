@@ -1,5 +1,6 @@
-# AREP-Taller2 APLICACIONES DISTRIBUIDAS (HTTP, SOCKETS, HTML, JS,MAVEN, GIT)
-Es una aplicación que nos permite consultar información de peliculas de cine, pero en ves de conectar directamente con el API gratuito de [omdbapi](https://www.omdbapi.com/) que nos provee esta información, se utilizara una Api fachada que nos evita realizar consultas repetidas al Api gratuita que nos brindan, además el servidor podrá leer los archivos del disco local sin importar que tipo de archivo sea html, java script, css e imágenes.
+# AREP-Taller3 MICROFRAMEWORKS WEB
+
+Servidor web que soporta una funcionalidad similar a la de Spark, utilizando funciones lambda
 
 ## Empezando
   * Para obtener una copia del proyecto en su maquina local:
